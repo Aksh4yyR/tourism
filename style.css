@@ -1,0 +1,549 @@
+.hh1
+{
+    color:darkgoldenrod;
+}
+#navv
+{
+    background-color: transparent !important;
+}
+.he1
+{
+font-weight: 800;
+font-size: 60px;
+}
+#psyd
+{
+    margin-right: 200px;
+}
+.he3
+{
+    font-weight: 800;
+}
+.he2
+{
+    font-family: "Playwrite BE VLG", cursive;
+}
+.he4
+{
+    font-family: "Playwrite BE VLG", cursive;
+}
+.cont
+{
+    margin-top: 200px;
+    margin-left: 1050px;
+}
+.nav1
+{
+    background-image: url("https://wallpaperaccess.com/full/254381.jpg");
+    height: 100vh;
+    background-size: cover;
+   
+}
+.bb
+{
+    margin-top: 120px;
+    margin-left: 640px;
+    background-color: green;
+    width:130px;
+    height: 50px;
+    color: white;
+}
+.heh
+{
+    text-align: center;
+    padding: 30px;
+}
+#sub
+{
+    color: red;
+}
+#sub4
+{
+    color: red;
+    margin-top: 30px;
+}
+#cb1
+{
+    text-align:center;
+}
+#man
+{
+    height: 228px;
+}
+#goa
+{
+    height:228px ;
+}
+#ker
+{
+    height:228px;
+}
+#bb2
+{
+    margin-bottom: -100px;
+}
+#bb3
+{
+    margin-bottom: -140px;
+}
+#bb4
+{
+    margin-bottom: -140px; 
+}
+.card
+{
+  margin-left: 40px;
+}
+#ccp
+{
+    margin-left: 70px;
+}
+.bb6
+{
+    margin-top: 50px;
+    margin-left: 600px;
+    width:130px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: blue;
+    color: white;
+}
+.mainn
+{
+    position: relative;
+}
+.conten
+{
+    position: absolute;
+    margin-top: -80px;
+}
+#boat
+{
+    height: 300px;
+}
+@keyframes colorChange {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+.kbc
+{
+    font-size: 60px;
+    color: blue;
+    font-style: italic;
+    animation: colorChange 2s infinite;
+    text-shadow:1px 2px 3px white;
+}
+#f3
+{
+    background-color: gainsboro;
+    margin-top: 20px;
+}
+.youtube
+{
+    display: flex;
+}
+.grid
+{
+    display: grid;
+    grid-template-columns: repeat(3,12rem);
+    row-gap: 1rem;
+    column-gap:5rem;
+}
+.kk1
+{
+    height: 240px;
+    width: 260px;
+}
+.k2
+{
+    height:240px;
+    width: 260px;
+}
+.k3
+{
+    height: 240px;
+    width: 260px;
+}
+.k4
+{
+    height: 140px;
+    width: 346px;
+}
+.k5
+{
+    height: 140px;
+    width: 165px; 
+    margin-left: 90px; 
+}
+.k6
+{
+    height: 140px;
+    width: 260px; 
+}
+.youtube
+{
+    margin-top: 30px;
+}
+.grid{
+    margin-left: 50px;
+    height:315;
+}
+.vid
+{
+    margin-top: 40px;
+}
+.nit
+{
+    margin-top: 40px;
+}
+#pic1
+{
+    padding: 20px; 
+    border-radius: 30px;
+}
+#pic2
+{
+    height: 287px;
+    padding: 20px;
+    border-radius: 30px;
+}
+#pic3
+{
+    height: 287px;
+    padding: 20px;
+    border-radius: 30px;
+}
+#pic4
+{
+    height: 287px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.c1
+{
+    position: relative;
+}
+.wr1
+{position: absolute;
+    top:0;
+    /* margin-top: 90px;
+    margin-left: 100px; */
+    background-color:aquamarine;
+    left:60px;
+    top:20px;
+    height:250px;
+    text-align: center;
+    width: 250px;
+    border-radius: 10px;
+    font-family: "Playwrite AR", cursive;
+    display: none; 
+}
+
+.nit{
+    text-align: center;
+    margin-top: 40px;
+}
+.hhh1,.hhh2,.hhh3,.hhh4
+{
+   margin-top: 40px;
+   font-weight: 700;
+   
+}
+.hee2
+{
+    margin-top: 40px;
+}
+.spp
+{
+    color: blue;
+}
+.bb1
+{
+    margin-top: 30px;
+    border-radius: 20px;
+    width:130px;
+    background-color:red;
+    color: white;
+}
+.card:hover +.wr1{
+    display: block;
+    background-color: aquamarine;
+}
+.cr2
+{
+    margin-top: 30px;
+    
+}
+.opf
+{
+    text-align: center;
+}
+.wwm
+{
+    text-align: center;
+    color: red;
+    font-family: "Playwrite AR", cursive;
+}
+#bride
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    align-content: center;
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+{
+    background-color:silver;
+    border-radius: 30px;
+}
+#crb
+{
+    margin-left: 60px;
+    text-align: justify;
+}
+#lm
+{
+    margin-left: 20px;
+}
+#fl
+{
+    background-color: silver;
+    border-radius: 30px;
+}
+h5{
+    margin-left: 10px;
+}
+#lm
+{
+    text-decoration: none;
+    color: blueviolet;
+}
+#iid
+{
+    margin-top: 30px;
+}
+#f5,#f4
+{
+    margin-left: 40px;
+}
+#f6
+{
+    margin-top: 50px;
+}
+#iiii
+{
+    margin-top: 30px;
+}
+.env
+{
+    text-align: center;
+    font-family: "Noto Sans Mongolian", sans-serif;
+    margin-top: 60px;
+}
+#green
+{
+    color: green;
+}
+#jma
+{
+    height:430px;
+}
+#f6
+{
+    background-color: silver;
+}
+#crd
+{
+    margin-left: 230px;
+}
+#las
+{
+    background-color: navajowhite;
+}
+.mj
+{
+    text-align: center;
+}
+#ied
+{
+    text-align: center;
+}
+#trip
+{
+    text-align: center;
+}
+.ocl
+{
+    font-weight: 700;
+    font-family: monospace;
+}
+.trw
+{
+    height: 320px;
+}
+#f7
+{
+    margin-top: 40px;
+    background-color: blueviolet;
+}
+.par{
+    display: flex;
+    justify-content: space-between;
+}
+#insta
+{
+    padding:10px;
+    color: white;
+}
+.chh-1
+{
+color: orange;
+}
+.ch-1
+{
+margin-left: 10px;
+color: orange;
+}
+.chi-1
+{
+    margin-left: 40px;
+}
+#comp
+{
+    text-align: justify;
+    color: white;
+}
+.fin
+{
+    text-align: center;
+    color: white;
+    margin-left: -120px;
+}
+
+@media (max-width:468px)
+{
+    .nav1{
+        background-size:400px;
+        position: relative;
+    }
+    .bb{
+        margin-left: 120px;
+        margin-top: -200px;
+        position: absolute;
+    }
+    #boAt
+    {
+       flex-direction: column;
+       position: relative;
+    }
+    .card{
+        margin-top: 40px;
+    }
+    #bb1
+    {
+        margin-top: -20px;
+        position: absolute;
+        margin-left: -50px;
+    }
+    .bb6
+    {
+        margin-left: -200px;
+    }
+    #f3
+    {
+        background-color: white;
+    }
+    #carouselExampleCaptions
+    {
+        width:400px;
+    }
+    .heh{
+        color: red;
+    }
+    iframe
+    {
+        width: 400px;
+    }
+    .youtube
+    {
+        flex-direction: column;
+    }
+    .grid{
+        display: grid;
+        grid-template-columns: repeat(1,2rem);
+       
+    }
+    .kk1{
+        width:400px;
+        margin-left: -50px;
+    }
+    .k2{
+        width:400px;
+        margin-left: -50px;
+    }
+    .k3{
+        width:400px;
+        margin-left: -50px;
+    }
+    .k4{
+        width:400px;
+        margin-left: -50px;
+    }
+    .k5{
+        width:400px;
+        margin-left: -50px;
+
+    }
+    .k6{
+        width:400px;
+        margin-left: -50px;
+    }
+    .cc
+    {
+        flex-direction: column;
+    }
+    #iid
+    {
+        flex-direction: column;
+    }
+    #crd
+    {
+        flex-direction: column;
+        margin-left: 30px;
+    }
+    #f6
+    {
+        background-color: white;
+        margin-left: 10px;
+
+    }
+    .env{
+        margin-left: 80px;
+    }
+    .par{
+        flex-direction: column;
+        text-align: center;
+        background-color: white;
+        border: none;
+    }
+    #comp,#insta
+    {
+        color: black;
+        text-align: center;
+    }
+    .trw{
+        margin-top: 30px;
+        margin-left: -20px;
+    }
+    .fin{
+        background-color: white;
+        color: black;
+        margin-left: 50px;
+    }
+
+   
+}
